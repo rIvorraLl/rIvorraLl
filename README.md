@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rIvorraLl
+- 👀 I’m interested in ... coding
+- 🌱 I’m currently learning ... to write bugs
+- 💞️ I’m looking to collaborate on ... whatever
+- 📫 How to reach me ... just ping here
