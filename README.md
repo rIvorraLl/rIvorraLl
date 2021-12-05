@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rIvorraLl
+- 👋 Hi, I’m @rIvorra
 - 👀 I’m interested in ... coding
 - 🌱 I’m currently learning ... to write bugs
 - 💞️ I’m looking to collaborate on ... whatever
