@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rIvorra
-- 👀 I’m interested in ... coding
+- 👀 I’m interested in ... coding, FOSS
 - 🌱 I’m currently learning ... to write bugs
-- 💞️ I’m looking to collaborate on ... whatever
+- 💞️ I’m looking to collaborate on ... very busy ATM, but feel free to ask
 - 📫 How to reach me ... just ping here
