@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rIvorra
+- 👋 Hi, I’m @rIvorraLl
 - 👀 I’m interested in ... coding, FOSS
 - 🌱 I’m currently learning ... to write bugs
 - 💞️ I’m looking to collaborate on ... very busy ATM, but feel free to ask
