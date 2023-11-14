@@ -9,3 +9,4 @@ public class Information {
 }
 
 ```
+![](https://www.codewars.com/users/rIvorraLl/badges/large)
